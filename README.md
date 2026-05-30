@@ -4,22 +4,6 @@ A microservices-based application consisting of four Node.js services containeri
 
 ---
 
-## Project Structure
-
-```
-submission/
-├── user-service/
-│   └── Dockerfile
-├── product-service/
-│   └── Dockerfile
-├── order-service/
-│   └── Dockerfile
-├── gateway-service/
-│   └── Dockerfile
-├── docker-compose.yml
-└── README.md
-```
-
 ---
 
 ## Setup & Running the Application
